@@ -1,0 +1,106 @@
+body{
+    background-color: #18587a;
+}
+
+
+.psc{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    background-color: #ff9a00;
+    width: 850px;
+    height: 700px
+}
+
+.MYinfo{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: flex;
+  border-radius: 20px;
+  background-color: palegoldenrod;
+}
+
+.Basicinfo{
+  text-align: left;
+}
+
+.MYpresent{
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 10px;
+  display: flex;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+
+.Mypast{
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 10px;
+  display: flex;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.Education-1{
+  font-size: large;
+   background-color:peru;
+  font-weight: 600;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  .btn1{
+    background-color: #4CAF50;
+    border: 0.5px black;
+    border-radius: 5px;
+    color: blue;
+    padding: 16px 32px;
+    text-align: center;
+    margin-left: 290px;
+    display: inline-block;
+    font-size: 18px;
+  }
+  .btn2{
+    background-color: #4CAF50; 
+    border: 0.5px black;
+    border-radius: 5px;
+    color: blue;
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    
+  }
+
+  
+
+  .MyForm{
+    margin-top: 30px;
+    background-color: paleturquoise;
+    display: none;
+  }
+
+  .fbtn1{
+    background-color: papayawhip; 
+    border-radius: 2px;
+    border: 0.5px black;
+    border-radius: 5px;
+    color: blue;
+    padding: 5px 6px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+  }
+
+  
+
+  
+
+  
